@@ -1,20 +1,10 @@
-CARLA RIBEIRO — ENGLISH MULTI-PAGE WEBSITE
 
-Files:
-- index.html
-- about.html
-- contact.html
-- style.css
-- images/Carla.png
 
-IMPORTANT:
-Place Carla.png inside the images folder.
+GOATCOUNTER ANALYTICS
 
-LOCAL PREVIEW:
-Open index.html directly, or run:
-    python -m http.server 8000
-Then visit:
-    http://localhost:8000
+Tracking is enabled on index.html, about.html and contact.html.
 
-GITHUB PAGES:
-Upload all files while preserving the folder structure.
+Suggested Instagram profile link:
+https://carlarimarcinema.github.io/carla-cinema/about.html?ref=instagram
+
+Upload the updated HTML files to GitHub to replace the existing versions.
